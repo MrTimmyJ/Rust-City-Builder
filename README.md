@@ -86,7 +86,7 @@ Rust-City-Builder/<br>
 
 🖼️ Screenshots / Visuals
 
-![citybuilderbanner](https://github.com/user-attachments/assets/22a26550-9236-469e-aba0-ed5118f98bf3)
+![citybuilderbanner](https://github.com/user-attachments/assets/9f76d898-4036-487b-8d5d-204823acfdaf)
 
 Hello, city!<br>
 Added Road { coord: 6, direction: NorthSouth }<br>

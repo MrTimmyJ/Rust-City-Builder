@@ -6,10 +6,10 @@ Date: May 2024
 
 ## Overview
 
-A city-building simulation written in Rust, focused on the procedural generation of streets and mapping addresses.
+&nbsp;&nbsp;&nbsp;&nbsp;A city-building simulation written in Rust, focused on the procedural generation of streets and mapping addresses.
 Inspired by real-world urban layouts—such as Olympia, WA—this lightweight terminal tool models city grids, assigns addresses to intersections, and visualizes road infrastructure via a grid-based ASCII map.
 
-Rust-City-Builder is a command-line simulation that mimics the layout of a simple urban grid by randomly generating North-South and East-West roads.
+&nbsp;&nbsp;&nbsp;&nbsp;Rust-City-Builder is a command-line simulation that mimics the layout of a simple urban grid by randomly generating North-South and East-West roads.
 It assigns address names based on pre-defined sources (like Olympia street names) and maps them to a 2D grid, rendering it with basic ASCII visualization.
 
 Designed for experimenting with procedural content generation in Rust.

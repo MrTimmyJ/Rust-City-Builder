@@ -123,10 +123,9 @@ oooooo#ooooooooooooooooooooooooooooooooooooooooooo<br>
 
     To clone and run this project locally:
 
-      git clone https://github.com/yourusername/Rust-City-Builder.git
+      git clone https://github.com/MrTimmyJ/Rust-City-Builder.git
       cd Rust-City-Builder
       cargo run
-
 
       ⚠️ Requires Rust and Cargo installed 
 
@@ -151,4 +150,4 @@ https://geographic.org/streetview/usa/wa/thurston/olympia.html
 
 🪪 License
 
-This project is open source and available under the [MIT License](https://opensource.org/license/mit).
+This open-source project is available under the [MIT License](https://opensource.org/license/mit).
